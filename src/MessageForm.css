@@ -1,0 +1,29 @@
+.MessageForm {
+  display: flex;
+  background: #ccc;
+}
+
+.MessageForm .input-container {
+  flex: 1;
+  margin: 1px;
+}
+
+.MessageForm .button-container {
+  flex: 0 0 6em;
+  margin: 1px 1px 1px 0;
+}
+
+.MessageForm input, .MessageForm button {
+  background: #fff;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  font-size: inherit;
+  height: 100%;
+  outline: none;
+  width: 100%;
+}
+
+.MessageForm input {
+  padding: 0 0 0 4px;
+}

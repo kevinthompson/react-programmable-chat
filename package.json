@@ -1,0 +1,25 @@
+{
+  "name": "programmable-chat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "chance": "^1.0.11",
+    "classnames": "^2.2.5",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "jquery": "^3.2.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "^1.0.11",
+    "twilio": "^3.6.7",
+    "twilio-chat": "^1.1.1"
+  },
+  "proxy": "http://localhost:3001",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
