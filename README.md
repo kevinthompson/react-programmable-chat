@@ -1,6 +1,6 @@
 # React Programmable Chat Interface Demo
 
-![https://raw.githubusercontent.com/kevinthompson/react-programmable-chat/master/example.jpg]()
+![](https://raw.githubusercontent.com/kevinthompson/react-programmable-chat/master/example.jpg)
 
 This demo application was created as a supplement to a post on 
 the [Twilio blog](https://www.twilio.com/blog).
