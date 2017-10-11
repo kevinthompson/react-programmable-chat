@@ -1,4 +1,4 @@
-# React Programmable Chat Interface Demo
+# React Programmable Chat
 
 ![](https://raw.githubusercontent.com/kevinthompson/react-programmable-chat/master/example.jpg)
 
