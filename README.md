@@ -38,7 +38,7 @@ TWILIO_CHAT_SERVICE_SID=
 **Install application dependencies:**
 
 ```
-yarn install
+npm install
 ```
 
 **Start the token server in one terminal instance:**
@@ -50,5 +50,5 @@ node server.js
 **Start the React application build process in another terminal instance:**
 
 ```
-yarn start
+npm start
 ```
